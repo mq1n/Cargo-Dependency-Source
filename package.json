@@ -2,9 +2,13 @@
   "name": "cargo-dependency-source",
   "displayName": "Cargo Dependency Source",
   "description": "Show Rust Cargo dependency crate and source links in a tooltip",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "mq1n",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mq1n/Cargo-Dependency-Source"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
