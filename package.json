@@ -3,6 +3,8 @@
   "displayName": "Cargo Dependency Source",
   "description": "Show Rust Cargo dependency crate and source links in a tooltip",
   "version": "0.0.1",
+  "publisher": "mq1n",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.81.0"
   },
